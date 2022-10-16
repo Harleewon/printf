@@ -3,7 +3,7 @@ _printf is a custom implementation of the C programming function printf.
 
 ## Prototype: int _printf(const char *, ...);
 
-#Some Examples
+# Some Examples
 ## Integer
 
 - Input: _printf("There are %i dozens in a gross\n", 12);
